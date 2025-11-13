@@ -109,4 +109,4 @@ MIT License. Consulta `LICENSE` para más información.
 
 ## Contacto
 
-Para dudas o sugerencias: [tu-email@dominio.com]
+Para dudas o sugerencias: [123filipi@gmail.com]
